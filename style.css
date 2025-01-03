@@ -2,10 +2,21 @@ h1 {
     text-align: center;
     color: darkred;
 }
-button {
+.click {
     color: darkblue;
     background-color: crimson;
     padding: 16px;
     border: none;
     outline: none;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.subscribe {
+    color: white;
+    background-color: #560414;
+    padding: 16px;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    border-radius: 10px;
 }
