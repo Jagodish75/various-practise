@@ -2,3 +2,10 @@ h1 {
     text-align: center;
     color: darkred;
 }
+button {
+    color: darkblue;
+    background-color: crimson;
+    padding: 16px;
+    border: none;
+    outline: none;
+}
